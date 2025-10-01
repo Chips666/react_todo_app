@@ -2,6 +2,8 @@
 
 A simple and handy Todo application with the ability to add, edit, toggle completion, and delete tasks. Includes filters (All / Active / Completed), an active items counter, bulk actions (toggle all, clear completed), loading indicators, and error notifications.
 
+[Demo](Demo: https://chips666.github.io/react_todo_app/)
+
 Built with React 18 + TypeScript, powered by Vite. Styles are written in SCSS with Bulma.
 
 ---
